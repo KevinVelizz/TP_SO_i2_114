@@ -1,3 +1,7 @@
 Nombre y apellido: Gian Franzoso
 IP maquina:  192.168.0.1
 Hora: 16:07
+
+Nombre y apellido: Kevin Veliz GAMMA
+IP maquina: 192.168.1.2
+Hora: 17:01
