@@ -1,0 +1,7 @@
+a- Actulizo mi repositorio al estado que esté el repositorio que hice el fork con el botón Sync fork. O realizando los comandos git fetch upstream
+git checkout master
+git merge upstream/master 
+
+b- Si, se puede. En el clone que haga ALFA de su repositorio forkeado tiene que configurar un "upstream remote" que apunte al fork de GAMMA: usamos "git remote add upstream <url_repoforked_GAMMA". Luego puede usar un git fetch y un merge para poder actualizar
+cada vez que GAMMA realice cambios en su repositorio fork.
+
