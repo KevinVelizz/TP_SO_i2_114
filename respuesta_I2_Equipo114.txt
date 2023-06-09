@@ -15,6 +15,6 @@ punto a) un pull + url repo forkeado
 
 punto b) pull + URL repo forkeado
 
-punto c) pull + URL repo forkeado.
-
+punto c) pull + URL repo forkeado. 
+.
 
